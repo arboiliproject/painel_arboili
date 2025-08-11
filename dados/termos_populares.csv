@@ -1,0 +1,122 @@
+group,terms,exclude,main
+Artralgia,Dor na junta,F,F
+Artralgia,Dor no corpo,F,F
+Artralgia,Dor nas articulações,F,F
+Artralgia,Dor na munheca,F,F
+Artralgia,Dor articular,F,F
+Artralgia,Quebradeira,F,F
+Artralgia,Derrubada,F,F
+Artralgia,Dor nos ossos,F,F
+Artralgia,/m/021hck,F,T
+Mialgia,Dor no corpo,F,F
+Mialgia,Dor muscular,F,F
+Mialgia,Dor nas pernas,F,F
+Mialgia,/m/013677,F,T
+Dor no peito,Aflição no peito,F,F
+Dor no peito,Pressão no peito,F,F
+Dor no peito,/m/02np4v,F,T
+Dor no peito,Aperto no peito,F,F
+Cefaleia,Dor de cabeça,F,F
+Cefaleia,Enxaqueca,F,F
+Cefaleia,/m/0j5fv,F,T
+Dor retro-orbital,Dor retro-orbital,F,T
+Dor retro-orbital,Dor ocular,F,F
+Dor retro-orbital,Dor atrás dos olhos,F,F
+Dor retro-orbital,Dor no olho,F,F
+Dor retro-orbital,Vista doendo,F,F
+Dor retro-orbital,Olhos ardidos,F,F
+Dor atrás dos olhos,Dor atrás dos olhos,F,T
+Dor ocular,Dor ocular,F,T
+Dor de garganta,Dor de garganta,F,F
+Dor de garganta,Garganta doída,F,F
+Dor de garganta,/m/0b76bty,F,T
+Náusea,Estômago embrulhado,F,F
+Náusea,Enjôo,F,F
+Náusea,Estômago ruim,F,F
+Náusea,Tonteira,F,F
+Náusea,Vontade de vomitar,F,F
+Náusea,Sensação de cabeça girando,F,F
+Náusea,/m/0gxb2,F,T
+Vômito,Vômito,F,F
+Vômito,/m/012qjw,F,T
+Diarreia,Caganeira,F,F
+Diarreia,Dor de barriga,F,F
+Diarreia,Desarranjo,F,F
+Diarreia,Intestino solto,F,F
+Diarreia,Emprastada,T,F
+Diarreia,Piriri,F,F
+Diarreia,/m/0f3kl,F,T
+Dispneia,Falta de ar,F,F
+Dispneia,Dificuldade de respirar,F,F
+Dispneia,Sem ar,F,F
+Dispneia,/m/01cdt5,F,T
+Tosse,Tosse,F,F
+Tosse,Pigarro,F,F
+Tosse,/m/01b_21,F,T
+Disfunção cognitiva,Abobado,F,F
+Disfunção cognitiva,Lesado,F,F
+Disfunção cognitiva,Tontura,F,F
+Disfunção cognitiva,Leseira,F,F
+Disfunção cognitiva,Confuso,F,F
+Disfunção cognitiva,Pensamento lento,F,F
+Disfunção cognitiva,Burrice,T,F
+Disfunção cognitiva,Sonso,T,F
+Disfunção cognitiva,Abestado,F,F
+Disfunção cognitiva,Leso,F,F
+Disfunção cognitiva,Abobalhado,F,F
+Disfunção cognitiva,Disfunção cognitiva,F,T
+Fadiga,Cansaço,F,F
+Fadiga,Moleza,F,F
+Fadiga,Fraqueza,F,F
+Fadiga,Corpo mole,F,F
+Fadiga,Tiriça,T,F
+Fadiga,Piema,F,F
+Fadiga,/m/01j6t0,F,T
+Febre,Corpo esquentando,F,F
+Febre,Suadeira,F,F
+Febre,Corpo quente,F,F
+Febre,/m/0cjf0,F,T
+Calafrio,Calafrio,F,T
+Calafrio,Tremedeira,F,F
+Calafrio,Arrepio,F,F
+Calafrio,Frio,F,F
+Erupção cutânea,Calombos na pele,F,F
+Erupção cutânea,Mancha na pele,F,F
+Erupção cutânea,Caroço,F,F
+Erupção cutânea,Coceira,F,F
+Erupção cutânea,Perebas,F,F
+Erupção cutânea,Brotoeja,F,F
+Erupção cutânea,Ferida na pele,F,F
+Erupção cutânea,Irritação,F,F
+Erupção cutânea,Bolha no corpo,F,F
+Erupção cutânea,Pipoco de pele,F,F
+Erupção cutânea,Furunco,F,F
+Erupção cutânea,Carnegão,F,F
+Erupção cutânea,Pintas,F,F
+Erupção cutânea,Vermelhidão,F,F
+Erupção cutânea,Erupção cutânea,F,T
+Artrite,Inchaço nas juntas,F,F
+Artrite,Inchaço nas dobras,F,F
+Artrite,Inchaço,F,F
+Artrite,Inchaço articular,F,F
+Artrite,/m/0t1t,F,T
+Perda de olfato ou paladar,Não sentir gosto e cheiro,F,F
+Alteração de olfato ou paladar,Boca amarga,F,F
+Perda de olfato ou paladar,/m/0m7pl,F,T
+Perda de olfato ou paladar,/m/05sfr2,F,T
+Alteração de olfato ou paladar,/m/01d3gn,F,T
+Alteração de olfato ou paladar,/m/04czcv_,F,T
+Perda de olfato,/m/0m7pl,F,T
+Perda do paladar,/m/05sfr2,F,T
+Alteração do paladar,/m/01d3gn,F,T
+Alteração de olfato,/m/04czcv_,F,T
+Rigidez muscular,Rigidez muscular,F,T
+Rigidez muscular,Braços ou pernas endurecidas ,F,F
+Rigidez muscular,Braço endurecido ,F,F
+Rigidez muscular,Braços endurecidos ,F,F
+Rigidez muscular,perna endurecida ,F,F
+Rigidez muscular,pernas endurecidas ,F,F
+Rigidez muscular,Juntas duras,F,F
+Rigidez muscular,Corpo travado,F,F
+Rigidez muscular,Entrevado,F,F
+Rigidez muscular,Dificuldade em movimentar,F,F

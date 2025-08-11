@@ -1,0 +1,27 @@
+topic,termo,Chikungunya,Dengue,ILI,COVID.19,Influenza,SARI
+Chest pain,Dor no peito,0,0,0,1,0,0
+Arthritis,Artrite,1,0,0,0,0,0
+Chills,Calafrio,0,0,0,2,0,2
+Diarrhea,Diarreia,0,0,0,0,1,0
+Cognitive dysfunction,Disfunção cognitiva,0,0,0,1,0,0
+Abdominal pain,Dor abdominal,0,4,0,0,0,0
+Retro-orbital pain,Dor retro-orbital,0,1,0,0,0,0
+Headache,Cefaleia,0,2,0,0,2,2
+Sore throat,Dor de garganta,0,0,0,2,2,0
+Myalgia,Mialgia,2,2,0,2,2,2
+Arthralgia,Artralgia,2,2,0,0,2,0
+Body pain,Dor no corpo,0,0,0,0,4,0
+Skin rash,Erupção cutânea,1,0,0,0,0,0
+Fatigue,Fadiga,2,2,0,2,2,0
+Dyspnea,Dispneia,0,0,0,1,0,0
+Fever,Febre,2,2,2,2,2,2
+Joint swelling,Inchaço articular,1,0,0,0,0,0
+Nausea,Náusea,2,2,0,0,0,0
+Alteration of taste or smell,Perda ou alteração do paladar ou do olfato,0,0,0,1,0,0
+Muscle stiffness,Rigidez muscular,0,0,0,0,0,1
+Cough,Tosse,0,0,2,2,2,0
+Vomiting,Vômito,0,1,0,0,0,0
+Dengue,Dengue,3,3,3,3,3,3
+Chikungunya,Chikungunya,3,3,3,3,3,3
+Influenza,Influenza/gripe,3,3,3,3,3,3
+COVID-19,COVID-19,3,3,3,3,3,3
